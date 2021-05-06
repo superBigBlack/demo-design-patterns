@@ -24,3 +24,6 @@ hs_err_pid*
 
 # idea
 .idea
+
+# 编译目录
+out
