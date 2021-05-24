@@ -12,6 +12,7 @@ public class Singleton {
     private Singleton() {
     }
 
+
     public static Singleton createSingleton() {
         if (singleton == null) {
             singleton = new Singleton();
